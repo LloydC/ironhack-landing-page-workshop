@@ -1,6 +1,6 @@
 ![Ironhack](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_6e171edc323b4df30ae1f1cefe63c7e2.png)
 
-Euro Coding Challenge: Speaker Notes
+Landing Page Workshop - Venture Cafe: Speaker Notes
 ====================================
 The goal is to **live-code a landing page** while attendees follow along.
 
@@ -26,7 +26,7 @@ Find a **second screen** to open this document or **print it**.
 
 Open Links:
 - [Slides for introduction](https://docs.google.com/presentation/d/1w-YOJCdYyiILkKwkdbwwdAROUnagCci6Vh1d9gi6Brw/edit?usp=sharing)
-- [Attendee info page link](http://bit.ly/eurocoding) - For downloading images and copy/pasting pieces easily.
+- [Attendee info page link](https://github.com/LloydC/ironhack-landing-page-workshop) - For downloading images and copy/pasting pieces easily.
 - [CSS Tricks' Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   \- For diagrams about Flexbox concepts.
 
@@ -341,13 +341,4 @@ For Flexbox, show diagrams from the
   }
   ```
 
-**CSS done!**
-
-
-### Part #4: Their Projects ###
-- Direct them to the **attendee info page** again to find information about the two suggested landing page designs.
-- Instruct them to **draw heavily from the Spotify example** and use **TAs as resources**.
-- They have **two hours** to submit their design.
-- Staff members will go around helping them submit (print to PDF and upload) or just check their designs.
-
-**Good luck!**
+**Page done!**
